@@ -1,2 +1,3 @@
-# Website
-Website for solidfuel.org
+# SolidFuel.org Website
+
+built using Next.js
